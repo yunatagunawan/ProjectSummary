@@ -11,5 +11,5 @@ This is repository of my personal projects and community talks that I performed 
 7. Fully cloud platform using Amazon Web Services (AWS) and Confluent
 8. SQL Data Integration using MPP Technology
 
-# Community Talk
+# Public Speaking at Community Talk
 1001. Aug 2026, ClickHouse Community Meetup.pdf (https://www.meetup.com/clickhouse-indonesia-user-group/events/314943794/)
