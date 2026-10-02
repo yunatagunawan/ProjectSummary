@@ -12,4 +12,4 @@ This is repository of my personal projects and community talks that I performed 
 8. SQL Data Integration using MPP Technology
 
 # Community Talk
-Aug 2026, ClickHouse Community Meetup (https://www.meetup.com/clickhouse-indonesia-user-group/events/314943794/)
+1001. Aug 2026, ClickHouse Community Meetup.pdf (https://www.meetup.com/clickhouse-indonesia-user-group/events/314943794/)
