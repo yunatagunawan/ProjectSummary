@@ -1,5 +1,5 @@
 # Overview
-This is repository of my personal projects and community talks that I created over the years. It is compiled into multiple files, and each files containing 1 project.
+This is repository of my personal projects and community talks that I performed over the years to improve my skills. It is compiled into multiple files, and each files containing 1 project.
 
 # Portfolio Description
 1. About data lakehouse for real-time analytics (Lambda architecture)
